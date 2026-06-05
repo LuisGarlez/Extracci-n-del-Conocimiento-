@@ -1,0 +1,9 @@
+fecha,cliente,ciudad,producto,categoria,cantidad,monto
+2025-05-01,Luis,Córdoba,Laptop,Electrónica,2,20000
+2025-05-03,Ana,Orizaba,Mouse,Accesorios,5,2500
+2025-05-05,Pedro,Xalapa,Teclado,Accesorios,3,1800
+2025-05-08,Luis,Córdoba,Mouse,Accesorios,2,1000
+2025-05-10,Ana,Orizaba,Laptop,Electrónica,1,10000
+2025-05-12,Pedro,Xalapa,Laptop,Electrónica,1,10000
+2025-05-15,Luis,Córdoba,Teclado,Accesorios,4,2400
+2025-05-18,Ana,Orizaba,Mouse,Accesorios,6,3000
